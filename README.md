@@ -14,7 +14,6 @@
 - DOM Manipualtion
 - Data Manipulation
 - REST API Integration
-- 3rd Party Libraries Integration (Facebook & TapPay SDK)
 
 #### Implmentation
 
